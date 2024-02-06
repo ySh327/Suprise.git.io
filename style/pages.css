@@ -1,0 +1,16 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    padding: 0%;
+    margin: 0;
+  }
+  hr{
+    width: auto;
+}
+
+  .box {
+    height: 100%;
+  }

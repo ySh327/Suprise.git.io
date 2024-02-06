@@ -1,0 +1,21 @@
+body {
+  height: auto;
+  width: 100%;
+  margin: 0;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  position: relative;
+  background-image:url('../assests/background.jpg');
+}
+
+.body{
+  background-color: rgba(255, 255, 255, 0.89);
+  width: 80%;rgba(255, 255, 255, 0.82)
+}
+.border{
+  padding: 1%;
+}
+
+iframe{
+width: auto;
+
+}
